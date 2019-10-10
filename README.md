@@ -10,3 +10,4 @@ Will Be adding a lot more scraps from websites to showcase scrap examples and wo
 </br>
 
 - [Complete Coursera Courses](https://github.com/D-E-F-E-A-T/selenium-web-scraping/blob/master/coursera_courses.py)
+- [Hack News](https://github.com/D-E-F-E-A-T/selenium-web-scraping/blob/master/hack_news.py)
