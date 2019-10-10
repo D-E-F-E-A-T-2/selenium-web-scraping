@@ -1,12 +1,10 @@
 # -*- coding: utf-8 -*-
 
-## --Getting only headings of news from www.thehackernews.com--
-## Made by Kushal 18BCE0557
 
 
 from time import sleep
 from bs4 import BeautifulSoup as soup #BeautifulSoup
-sleep(5)
+
 from urllib.request import urlopen as u_req #urllib.request
 my_url = "https://thehackernews.com"
 u_client = u_req(my_url)
