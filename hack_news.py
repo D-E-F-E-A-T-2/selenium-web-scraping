@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 
-
 from time import sleep
 from bs4 import BeautifulSoup as soup #BeautifulSoup
 
